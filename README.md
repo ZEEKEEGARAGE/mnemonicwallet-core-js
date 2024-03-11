@@ -24,3 +24,6 @@ localhost:3000 접속
 
 cd server
 npm start
+<br/>
+<br/>
+<br/>
